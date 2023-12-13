@@ -1,0 +1,56 @@
+html{
+	background-color: #68c6f7;}
+* {
+	font-family: Arial, Verdana, sans-serif;
+	text-decoration: none;
+	color: black;}
+a:hover {
+	text-decoration: underline;
+	color: #04a4fb;}
+	
+header {
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	margin: 0px;
+	padding: 0px;
+	height: 78px;
+	background-color: #ffffff;
+	width: 100%;}
+title {
+	float: right;}
+h1{
+	position: fixed;
+	margin: 1px;
+	padding: 3px;
+	right: 13px;
+	background-color: #ffffff;
+	z-index: 10px;
+	font-family: Times;
+	border-width:3px;
+	border-style:solid; 
+	border-color:#black; 
+	padding: 1px;}
+footer {
+	position: fixed;  
+	padding:0px;
+	left: 0px;
+	height: 4%; 
+	bottom: 0px;  
+	width: 105%;  
+	background-color: #ffffff;   
+	text-align: center; 
+	margin-top: auto; }
+
+.music,
+.editing,
+.media {
+	float: left;
+	width: 31%;
+	margin: 5px;	        
+	padding: 7px;
+	text-align: center;}
+
+h2 {
+	color: black;
+	text-align: center;}
